@@ -2,7 +2,13 @@
     "name" : "itcom/HTML_Emoji",
 	"type": "library",
 	"license": "MIT",
+    "autoload": {
+        "classmap": [
+            ""
+        ]
+    },
 	"include-path": [
 		"/"
 	],
+	"description": "HTML_Emoji は、携帯３キャリアの絵文字を変換するライブラリです。 PHP 4 以上で動作します。"
 }
