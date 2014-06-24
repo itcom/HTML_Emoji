@@ -1,0 +1,8 @@
+{
+    "name" : "itcom/HTML_Emoji",
+	"type": "library",
+	"license": "MIT",
+	"include-path": [
+		"/"
+	],
+}
