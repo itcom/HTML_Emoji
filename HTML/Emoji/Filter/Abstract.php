@@ -60,7 +60,7 @@ class HTML_Emoji_Filter_Abstract
      *
      * @param  HTML_Emoji
      */
-    function HTML_Emoji_Filter_Abstract($emoji)
+    function __construct($emoji)
     {
         $this->_emoji = $emoji;
     }
